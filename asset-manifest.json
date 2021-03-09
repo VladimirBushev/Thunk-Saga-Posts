@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/Thunk-Saga-Posts/static/js/main.a7b33862.chunk.js",
+    "main.js.map": "/Thunk-Saga-Posts/static/js/main.a7b33862.chunk.js.map",
+    "runtime-main.js": "/Thunk-Saga-Posts/static/js/runtime-main.c976ee00.js",
+    "runtime-main.js.map": "/Thunk-Saga-Posts/static/js/runtime-main.c976ee00.js.map",
+    "static/js/2.5cdd891c.chunk.js": "/Thunk-Saga-Posts/static/js/2.5cdd891c.chunk.js",
+    "static/js/2.5cdd891c.chunk.js.map": "/Thunk-Saga-Posts/static/js/2.5cdd891c.chunk.js.map",
+    "static/js/3.8accda20.chunk.js": "/Thunk-Saga-Posts/static/js/3.8accda20.chunk.js",
+    "static/js/3.8accda20.chunk.js.map": "/Thunk-Saga-Posts/static/js/3.8accda20.chunk.js.map",
+    "index.html": "/Thunk-Saga-Posts/index.html",
+    "static/js/2.5cdd891c.chunk.js.LICENSE.txt": "/Thunk-Saga-Posts/static/js/2.5cdd891c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c976ee00.js",
+    "static/js/2.5cdd891c.chunk.js",
+    "static/js/main.a7b33862.chunk.js"
+  ]
+}
